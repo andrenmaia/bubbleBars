@@ -1,4 +1,3 @@
 bubbleBars
 ==========
-
-A simple chart composed with bubble and bars using d3js.
+A simple chart composed by bubbles and bars using d3js. 
